@@ -1,0 +1,10 @@
+Record=TopLevelDocument|FileName=1_ZynTra-Power.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=1_ZynTra-Power.SchDoc|FileName=2_ZynTra-Zynq-Power.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=1_ZynTra-Power.SchDoc|FileName=3_ZynTra-Zynq-Config.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=1_ZynTra-Power.SchDoc|FileName=4_ZynTra-Zynq-PS.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=1_ZynTra-Power.SchDoc|FileName=5_ZynTra-Zynq-PL.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=1_ZynTra-Power.SchDoc|FileName=6_ZynTra-Zynq-DDR Interface.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=1_ZynTra-Power.SchDoc|FileName=7_ZynTra-DDR3L Modules.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=1_ZynTra-Power.SchDoc|FileName=8_Zyntra-Ethernet.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=1_ZynTra-Power.SchDoc|FileName=9_ZynTra-USB2.0.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=1_ZynTra-Power.SchDoc|FileName=10_ZynTra-Connectors.SchDoc|SheetNumber=10

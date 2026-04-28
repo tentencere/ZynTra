@@ -1484,7 +1484,7 @@ Net3=NetName=+1V0|NetColor=clFuchsia
 Net4=NetName=+1V35|NetColor=clBlue
 Net5=NetName=+1V8|NetColor=$0000BE00
 Net6=NetName=+1V8_PLL|NetColor=$0000BE00
-Net7=NetName=+3V3|NetColor=clRed
+Net7=NetName=+3V3|NetColor=$00003333
 Net8=NetName=+5V|NetColor=clRed
 Net9=NetName=DDR_VREF0|NetColor=$00CC6633
 Net10=NetName=EMMC_CLK|NetColor=$006600FF
